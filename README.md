@@ -1,4 +1,4 @@
-Software Engineering student and gamer. Mainly using Python, Java and C developer. 
+Game development student and gamer. Mainly using Python, Java and C developer. 
 He/Him.
 <!---
 cowboy-jude/cowboy-jude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
